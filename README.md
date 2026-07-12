@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 MAIPI
+## 🎓 MAIPI
 ### **Monitoring and Academic Intervention Platform for Student Retention**
 
 Sistema Inteligente de Monitoreo para la Permanencia Estudiantil en la  
@@ -21,7 +21,7 @@ Sistema Inteligente de Monitoreo para la Permanencia Estudiantil en la
 
 ---
 
-# 📖 Overview
+## 📖 Overview
 
 **MAIPI (Monitoring and Academic Intervention Platform)** es una plataforma web desarrollada para la **Universidad Nacional Agraria La Molina (UNALM)** que permite identificar tempranamente estudiantes con riesgo de deserción mediante el análisis de indicadores académicos, socioeconómicos y de asistencia.
 
@@ -29,7 +29,7 @@ El sistema proporciona herramientas de monitoreo, visualización y gestión de a
 
 ---
 
-# 🚀 Objetivos
+## 🚀 Objetivos
 
 ✔ Detectar estudiantes en riesgo.
 
@@ -43,7 +43,7 @@ El sistema proporciona herramientas de monitoreo, visualización y gestión de a
 
 ---
 
-# 📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 
 ```text
 MAIPI/
@@ -89,9 +89,9 @@ MAIPI/
 
 ---
 
-# ✨ Funcionalidades
+## ✨ Funcionalidades
 
-## 📊 Dashboard Ejecutivo
+### 📊 Dashboard Ejecutivo
 
 - Indicadores generales
 - Distribución del riesgo
@@ -101,7 +101,7 @@ MAIPI/
 
 ---
 
-## 🎯 Sistema Inteligente de Riesgo
+### 🎯 Sistema Inteligente de Riesgo
 
 El algoritmo evalúa múltiples variables:
 
@@ -123,7 +123,7 @@ Clasificando automáticamente al estudiante como:
 
 ---
 
-## 📈 Visualización
+### 📈 Visualización
 
 - Doughnut Charts
 - Bar Charts
@@ -133,7 +133,7 @@ Clasificando automáticamente al estudiante como:
 
 ---
 
-# 🏗 Arquitectura
+## 🏗 Arquitectura
 
 ```text
 MAIPI/
@@ -164,7 +164,7 @@ MAIPI/
 
 ---
 
-# 🗄 Modelo de Base de Datos
+## 🗄 Modelo de Base de Datos
 
 El sistema emplea una base de datos relacional optimizada para consultas académicas.
 
@@ -186,7 +186,7 @@ El sistema emplea una base de datos relacional optimizada para consultas académ
 
 ---
 
-# 🛠 Tecnologías
+## 🛠 Tecnologías
 
 | Tecnología | Uso |
 |------------|-----|
@@ -201,9 +201,9 @@ El sistema emplea una base de datos relacional optimizada para consultas académ
 
 ---
 
-# ⚙ Instalación
+## ⚙ Instalación
 
-## Clonar el repositorio
+### Clonar el repositorio
 
 ```bash
 git clone https://github.com/usuario/MAIPI.git
@@ -241,7 +241,7 @@ http://localhost/MAIPI
 
 ---
 
-# 📊 Flujo del Sistema
+## 📊 Flujo del Sistema
 
 ```text
 Estudiante
@@ -269,23 +269,23 @@ Intervención
 
 ---
 
-# 📸 Capturas
+## 📸 Capturas
 
-## Dashboard
+### Dashboard
 
 <img src="images/dashboard.png" width="900">
 
-## Perfil del Estudiante
+### Perfil del Estudiante
 
 <img src="images/perfil.png" width="900">
 
-## Estadísticas
+### Estadísticas
 
 <img src="images/charts.png" width="900">
 
 ---
 
-# 🔮 Mejoras Futuras
+## 🔮 Mejoras Futuras
 
 - Machine Learning para predicción
 - Modelos de clasificación
@@ -296,7 +296,7 @@ Intervención
 
 ---
 
-# 👥 Equipo
+## 👥 Equipo
 
 | Integrante |
 |------------|
@@ -308,7 +308,7 @@ Intervención
 
 ---
 
-# 📜 Licencia
+## 📜 Licencia
 
 Proyecto desarrollado con fines académicos para la **Universidad Nacional Agraria La Molina (UNALM)**.
 
