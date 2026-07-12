@@ -269,33 +269,6 @@ Intervención
 
 ---
 
-## 📸 Capturas
-
-### Dashboard
-
-<img src="images/dashboard.png" width="900">
-
-### Perfil del Estudiante
-
-<img src="images/perfil.png" width="900">
-
-### Estadísticas
-
-<img src="images/charts.png" width="900">
-
----
-
-## 🔮 Mejoras Futuras
-
-- Machine Learning para predicción
-- Modelos de clasificación
-- Sistema de recomendaciones
-- Notificaciones automáticas
-- API REST
-- Integración con Power BI
-
----
-
 ## 👥 Equipo
 
 | Integrante |
